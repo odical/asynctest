@@ -1,1 +1,1 @@
-# asynctest
+# DotNetCore example of canceling ParallelForAsync
